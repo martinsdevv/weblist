@@ -1,0 +1,8 @@
+com/weblist/dao/TarefaDAOImpl.class
+com/weblist/controller/TaskListController.class
+com/weblist/App.class
+com/weblist/controller/TaskListController$1.class
+com/weblist/util/DateTimeThread.class
+com/weblist/util/ConnectionFactory.class
+com/weblist/model/Tarefa.class
+com/weblist/dao/TarefaDAO.class
